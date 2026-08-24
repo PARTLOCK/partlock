@@ -1,0 +1,45 @@
+[
+  {
+    "id": "DEMO-001",
+    "name": "Кліпса Toyota DEMO",
+    "oem": "90467-07166",
+    "brand": "Toyota",
+    "category": "Кліпси кузова",
+    "compatibility": ["Camry", "Corolla", "RAV4"],
+    "prices": {
+      "100": 180,
+      "500": 750,
+      "1000": 1300
+    },
+    "minQuantity": 100,
+    "img": "https://via.placeholder.com/400x300/f7f7f7/666666?text=Image"
+  },
+  {
+    "id": "DEMO-002",
+    "name": "Пістон кріплення бампера DEMO",
+    "oem": "01553-09321",
+    "brand": "Nissan",
+    "category": "Кліпси бампера",
+    "compatibility": ["Qashqai", "X-Trail", "Leaf"],
+    "prices": {
+      "100": 210,
+      "500": 900
+    },
+    "minQuantity": 100,
+    "img": "https://via.placeholder.com/400x300/f7f7f7/666666?text=Image"
+  },
+  {
+    "id": "DEMO-003",
+    "name": "Кліпса обшивки VAG DEMO",
+    "oem": "3B0868243",
+    "brand": "Volkswagen",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Golf", "Passat", "Octavia"],
+    "prices": {
+      "50": 120,
+      "200": 400
+    },
+    "minQuantity": 50,
+    "img": "https://via.placeholder.com/400x300/f7f7f7/666666?text=Image"
+  }
+]
