@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Каталог автокріплення | PARTLOCK</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container nav-bar">
+            <a href="index.html" class="logo">PARTLOCK</a>
+            <nav class="desktop-nav">
+                <a href="catalog.html" class="active">Каталог</a>
+                <a href="custom-order.html">Під замовлення</a>
+                <a href="about.html">Про нас</a>
+                <a href="contacts.html">Контакти</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container catalog-page">
+        <div class="catalog-header">
+            <h1>Каталог автокріплення</h1>
+            <p>Автомобільні кліпси та кріплення для оптових замовлень.</p>
+            <div class="search-wrapper">
+                <input type="text" id="searchInput" placeholder="🔎 Введіть OEM-номер, артикул, марку, модель або назву">
+            </div>
+            <button class="btn btn-outline mobile-filter-btn" id="mobileFilterBtn">Фільтри</button>
+        </div>
+
+        <div class="catalog-layout">
+            <div class="sidebar-overlay" id="sidebarOverlay"></div>
+            <aside class="sidebar" id="sidebar">
+                <div class="sidebar-header mobile-only">
+                    <h3>Фільтри</h3>
+                    <button class="close-sidebar" id="closeSidebarBtn">&times;</button>
+                </div>
+                <div class="filter-group">
+                    <h3>Марка</h3>
+                    <div class="filter-options" id="brandFilters"></div>
+                </div>
+                <div class="filter-group">
+                    <h3>Категорія</h3>
+                    <div class="filter-options" id="categoryFilters"></div>
+                </div>
+                <button class="btn btn-secondary w-100" id="resetFilters">Скинути фільтри</button>
+            </aside>
+
+            <div class="catalog-content">
+                <div class="catalog-controls">
+                    <span id="resultCount">Завантаження...</span>
+                    <div class="sort-wrapper">
+                        <label for="sortSelect">Сортувати:</label>
+                        <select id="sortSelect">
+                            <option value="recommended">Рекомендовані</option>
+                            <option value="name">За назвою</option>
+                            <option value="price_asc">За ціною (найдешевші)</option>
+                            <option value="new">Спочатку нові</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="product-grid" id="productGrid"></div>
+            </div>
+        </div>
+    </main>
+
+    <div class="modal-overlay" id="orderModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Запит оптової ціни</h2>
+                <button class="close-modal" id="closeModal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p><strong>Товар:</strong> <span id="modalProductName"></span></p>
+                <p><strong>OEM:</strong> <span id="modalProductOem"></span></p>
+                <div class="form-group mt-20">
+                    <label for="modalQuantity">Необхідна кількість (шт):</label>
+                    <input type="number" id="modalQuantity" min="1">
+                </div>
+                <div class="modal-buttons mt-20">
+                    <button class="btn btn-primary w-100" id="btnTg">Написати в Telegram</button>
+                    <button class="btn btn-viber w-100" id="btnViber">Написати у Viber</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+</html>
