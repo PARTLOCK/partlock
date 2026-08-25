@@ -17,18 +17,19 @@
   },
   
   {
-    "id": "DEMO-002",
-    "name": "Пістон кріплення бампера DEMO",
-    "oem": "01553-09321",
-    "brand": "Nissan",
-    "category": "Кліпси бампера",
-    "compatibility": ["Qashqai", "X-Trail", "Leaf"],
+    "id": "003",
+    "name": "Пістон дверної карти (обшивки дверей)",
+    "oem": "91560SP0003",
+    "brand": "Honda",
+    "category": "Кліпси Обшивка",
+    "compatibility": ["Subaru", "Honda"],
     "prices": {
-      "100": 210,
-      "500": 900
+      "100": 235,
+      "500": 1125,
+      "1000": 2200
     },
     "minQuantity": 100,
-    "img": "https://via.placeholder.com/400x300/f7f7f7/666666?text=Image"
+    "img": "klipsa003"
   },
   {
     "id": "DEMO-003",
@@ -38,10 +39,11 @@
     "category": "Кліпси обшивки",
     "compatibility": ["Golf", "Passat", "Octavia"],
     "prices": {
-      "50": 120,
-      "200": 400
+      "100": 235,
+      "500": 1125,
+      "1000": 2200
     },
-    "minQuantity": 50,
+    "minQuantity": 100,
     "img": "https://via.placeholder.com/400x300/f7f7f7/666666?text=Image"
   },
   {
