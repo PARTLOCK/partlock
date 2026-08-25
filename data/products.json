@@ -5,7 +5,7 @@
     "name": "Пістон кріплення обшивки та шумки (Ялинка)",
     "oem": "7703077435",
     "brand": "Toyota",
-    "category": "Кліпси обшивка", 
+    "category": "Кліпси обшивки", 
     "compatibility": ["Renault", "Opel", "Nissan", "Citroen", "Infiniti"],
     "prices": {
       "100": 385,
@@ -21,7 +21,7 @@
     "name": "Пістон дверної карти (обшивки дверей)",
     "oem": "91560SP0003",
     "brand": "Honda",
-    "category": "Кліпси обшивка",
+    "category": "Кліпси обшивки",
     "compatibility": ["Subaru", "Honda"],
     "prices": {
       "100": 235,
