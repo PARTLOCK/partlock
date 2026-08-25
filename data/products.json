@@ -32,19 +32,19 @@
     "img": "klipsa003.webp"
   },
   {
-    "id": "DEMO-003",
-    "name": "Кліпса обшивки VAG DEMO",
-    "oem": "3B0868243",
+    "id": "004",
+    "name": "Кліпса кріплення внутрішньої обшивки дверей",
+    "oem": "8200700969",
     "brand": "Volkswagen",
     "category": "Кліпси обшивки",
-    "compatibility": ["Golf", "Passat", "Octavia"],
+    "compatibility": ["Renault", "Dacia", "Logan", "Peugeot"],
     "prices": {
-      "100": 235,
-      "500": 1125,
-      "1000": 2200
+      "200": 540,
+      "500": 1325,
+      "1000": 2600
     },
-    "minQuantity": 100,
-    "img": "https://via.placeholder.com/400x300/f7f7f7/666666?text=Image"
+    "minQuantity": 200,
+    "img": "klipsa004.jped"
   },
   {
     "id": "003",
