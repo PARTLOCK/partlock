@@ -46,17 +46,17 @@
   },
   {
     "id": "003",
-    "name": "тесткліпса",
-    "oem": "67",
+    "name": "Натискна кліпса бампера та підкрилка",
+    "oem": "01553-05933",
     "brand": "Honda",
-    "category": "Кліпси бампера",
-    "compatibility": ["Модель 1", "Модель 2"],
+    "category": "Кріплення обшивки/салон",
+    "compatibility": ["Mazda", "Subaru", "Infiniti", "Nissan"],
     "prices": {
-      "100": 200,
-      "500": 850,
-      "1000": 1500
+      "100": 295,
+      "500": 1475,
+      "1000": 2950
     },
     "minQuantity": 100,
-    "img": "klips.webp"
+    "img": "klipsa001.jpeg"
   }
 ]
