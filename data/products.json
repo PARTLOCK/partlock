@@ -21,7 +21,7 @@
     "name": "Пістон дверної карти (обшивки дверей)",
     "oem": "91560SP0003",
     "brand": "Honda",
-    "category": "Кліпси Обшивка",
+    "category": "Кліпси обшивка",
     "compatibility": ["Subaru", "Honda"],
     "prices": {
       "100": 235,
@@ -51,7 +51,7 @@
     "name": "Натискна кліпса бампера та підкрилка",
     "oem": "01553-05933",
     "brand": "Nissan",
-    "category": "Кліпси обшивки",
+    "category": "Кліпси обшивки", "Кліпси кузов",
     "compatibility": ["Mazda", "Subaru", "Infiniti", "Nissan"],
     "prices": {
       "100": 295,
