@@ -1,4 +1,5 @@
 [
+  
   {
     "id": "DEMO-001",
     "name": "Кліпса Toyota DEMO",
@@ -14,6 +15,7 @@
     "minQuantity": 100,
     "img": "https://via.placeholder.com/400x300/f7f7f7/666666?text=Image"
   },
+  
   {
     "id": "DEMO-002",
     "name": "Пістон кріплення бампера DEMO",
@@ -41,5 +43,20 @@
     },
     "minQuantity": 50,
     "img": "https://via.placeholder.com/400x300/f7f7f7/666666?text=Image"
+  },
+  {
+    "id": "003",
+    "name": "тесткліпса",
+    "oem": "67",
+    "brand": "Honda",
+    "category": "Кліпси бампера",
+    "compatibility": ["Модель 1", "Модель 2"],
+    "prices": {
+      "100": 200,
+      "500": 850,
+      "1000": 1500
+    },
+    "minQuantity": 100,
+    "img": "klips.webp"
   }
 ]
