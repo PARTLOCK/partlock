@@ -1,19 +1,19 @@
 [
   
   {
-    "id": "DEMO-001",
-    "name": "Кліпса Toyota DEMO",
-    "oem": "90467-07166",
+    "id": "002",
+    "name": "Пістон кріплення обшивки та шумки (Ялинка)",
+    "oem": "7703077435",
     "brand": "Toyota",
-    "category": "Кліпси кузова",
-    "compatibility": ["Camry", "Corolla", "RAV4"],
+    "category": "Кліпси обшивка", 
+    "compatibility": ["Renault", "Opel", "Nissan", "Citroen", "Infiniti"],
     "prices": {
-      "100": 180,
-      "500": 750,
-      "1000": 1300
+      "100": 385,
+      "500": 1850,
+      "1000": 3500
     },
     "minQuantity": 100,
-    "img": "https://via.placeholder.com/400x300/f7f7f7/666666?text=Image"
+    "img": "klipsa002.jpeg"
   },
   
   {
