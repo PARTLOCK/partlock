@@ -150,5 +150,20 @@
     },
     "minQuantity": 100,
     "img": "klipsa010.jpg"
+  },
+  {
+    "id": "011",
+    "name": "Кліпса Tesla",
+    "oem": "110682700C",
+    "brand": "Tesla",
+    "category": "Кліпси молдинги",
+    "compatibility": ["Tesla"],
+    "prices": {
+      "100": 265,
+      "500": 1275,
+      "1000": 2500
+    },
+    "minQuantity": 100,
+    "img": "klipsa011.webp"
   }
 ]
