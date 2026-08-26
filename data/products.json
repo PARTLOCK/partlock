@@ -95,7 +95,7 @@
     "id": "007",
     "name": "Кліпси обшивки Renault Peugeot Citroen",
     "oem": "7703077476",
-    "brand": "VAG",
+    "brand": "Renault",
     "category": "Кліпси обшивки",
     "compatibility": ["Renault", "Peugeot", "Citroen"],
     "prices": {
@@ -105,5 +105,20 @@
     },
     "minQuantity": 100,
     "img": "klipsa007.webp"
+  },
+  {
+    "id": "008",
+    "name": "Кліпса кріплення обшивки дверей Ford",
+    "oem": "W713489S300",
+    "brand": "Ford",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Ford"],
+    "prices": {
+      "100": 280,
+      "500": 1350,
+      "1000": 2650
+    },
+    "minQuantity": 100,
+    "img": "klipsa008.webp"
   }
 ]
