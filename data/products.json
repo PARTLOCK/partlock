@@ -90,5 +90,20 @@
     },
     "minQuantity": 100,
     "img": "klipsa006.webp"
+  },
+  {
+    "id": "007",
+    "name": "Кліпси обшивки Renault Peugeot Citroen",
+    "oem": "7703077476",
+    "brand": "VAG",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Renault", "Peugeot", "Citroen"],
+    "prices": {
+      "100": 275,
+      "500": 1350,
+      "1000": 2650
+    },
+    "minQuantity": 100,
+    "img": "klipsa007.webp"
   }
 ]
