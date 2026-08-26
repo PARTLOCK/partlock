@@ -8,11 +8,11 @@
     "category": "Кліпси обшивки", 
     "compatibility": ["Renault", "Opel", "Nissan", "Citroen", "Infiniti"],
     "prices": {
-      "100": 385,
-      "500": 1850,
-      "1000": 3500
+      "200": 500,
+      "500": 1225,
+      "1000": 2400
     },
-    "minQuantity": 100,
+    "minQuantity": 200,
     "img": "klipsa002.jpeg"
   },
   
