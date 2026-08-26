@@ -165,5 +165,20 @@
     },
     "minQuantity": 100,
     "img": "klipsa011.webp"
+  },
+  {
+    "id": "012",
+    "name": "Кліпси обшивки Дверей Tesla",
+    "oem": "114276600A",
+    "brand": "Tesla",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Tesla"],
+    "prices": {
+      "100": 330,
+      "500": 1625,
+      "1000": 3200
+    },
+    "minQuantity": 100,
+    "img": "klipsa012.webp"
   }
 ]
