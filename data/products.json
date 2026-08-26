@@ -60,5 +60,20 @@
     },
     "minQuantity": 100,
     "img": "klipsa001.jpeg"
+  },
+  {
+    "id": "005",
+    "name": "Пістон кріплення бампера",
+    "oem": "90118WB048",
+    "brand": "Mazda",
+    "category": "Кліпси бампера",
+    "compatibility": ["Mazda", "Toyota"],
+    "prices": {
+      "100": 250,
+      "500": 1250,
+      "1000": 2500
+    },
+    "minQuantity": 100,
+    "img": "klipsa005.webp"
   }
 ]
