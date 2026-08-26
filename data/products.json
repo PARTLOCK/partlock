@@ -135,5 +135,20 @@
     },
     "minQuantity": 100,
     "img": "klipsa009.jpg"
+  },
+  {
+    "id": "010",
+    "name": "Кліпса Ford Tesla",
+    "oem": "W713297S300",
+    "brand": "Tesla",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Tesla", "Ford"],
+    "prices": {
+      "100": 235,
+      "500": 1150,
+      "1000": 2250
+    },
+    "minQuantity": 100,
+    "img": "klipsa010.jpg"
   }
 ]
