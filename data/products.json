@@ -120,5 +120,20 @@
     },
     "minQuantity": 100,
     "img": "klipsa008.webp"
+  },
+  {
+    "id": "009",
+    "name": "Кліпса фіксатор обшивки дверей Renault",
+    "oem": "7701050734",
+    "brand": "Renault",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Land Rover", "Dacia", "Nissan", "Opel", "Renault"],
+    "prices": {
+      "100": 270,
+      "500": 1325,
+      "1000": 2550
+    },
+    "minQuantity": 100,
+    "img": "klipsa009.jpg"
   }
 ]
