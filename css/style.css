@@ -1486,6 +1486,7 @@ main {
     .footer-links {
         justify-content: center;
     }
+   
 }
 
 /* =========================================================
@@ -1506,3 +1507,19 @@ main {
         font-size: 32px;
     }
 }
+.top-announcement-bar {
+  background-color: #111111;
+  color: #ffffff;
+  text-align: center;
+  padding: 8px 15px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  width: 100%;
+}
+
+.top-announcement-bar strong {
+  color: #e63946;
+}
+
+
