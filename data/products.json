@@ -8,9 +8,9 @@
     "category": "Кліпси обшивки", 
     "compatibility": ["Renault", "Opel", "Nissan", "Citroen", "Infiniti"],
     "prices": {
-      "200": 500,
-      "500": 1225,
-      "1000": 2400
+      "200": 590,
+      "500": 1450,
+      "1000": 2800
     },
     "minQuantity": 200,
     "img": "klipsa002.jpeg"
@@ -24,9 +24,9 @@
     "category": "Кліпси обшивки",
     "compatibility": ["Subaru", "Honda"],
     "prices": {
-      "100": 235,
-      "500": 1125,
-      "1000": 2200
+      "100": 265,
+      "500": 1300,
+      "1000": 2500
     },
     "minQuantity": 100,
     "img": "klipsa003.webp"
@@ -39,9 +39,9 @@
     "category": "Кліпси обшивки",
     "compatibility": ["Renault", "Dacia", "Logan", "Peugeot"],
     "prices": {
-      "200": 540,
-      "500": 1325,
-      "1000": 2600
+      "200": 590,
+      "500": 1425,
+      "1000": 2750
     },
     "minQuantity": 200,
     "img": "klipsa004.jpeg"
@@ -69,9 +69,9 @@
     "category": "Кліпси бампера",
     "compatibility": ["Mazda", "Toyota"],
     "prices": {
-      "100": 250,
-      "500": 1225,
-      "1000": 2400
+      "100": 275,
+      "500": 1350,
+      "1000": 2600
     },
     "minQuantity": 100,
     "img": "klipsa005.webp"
@@ -84,9 +84,9 @@
     "category": "Кліпси обшивки",
     "compatibility": ["Skoda", "Seat", "Volkswagen"],
     "prices": {
-      "100": 265,
-      "500": 1300,
-      "1000": 2550
+      "100": 285,
+      "500": 1400,
+      "1000": 2700
     },
     "minQuantity": 100,
     "img": "klipsa006.webp"
@@ -99,9 +99,9 @@
     "category": "Кліпси обшивки",
     "compatibility": ["Renault", "Peugeot", "Citroen"],
     "prices": {
-      "100": 275,
-      "500": 1350,
-      "1000": 2650
+      "100": 285,
+      "500": 1400,
+      "1000": 2700
     },
     "minQuantity": 100,
     "img": "klipsa007.webp"
@@ -129,8 +129,8 @@
     "category": "Кліпси обшивки",
     "compatibility": ["Land Rover", "Dacia", "Nissan", "Opel", "Renault"],
     "prices": {
-      "100": 270,
-      "500": 1325,
+      "100": 280,
+      "500": 1375,
       "1000": 2550
     },
     "minQuantity": 100,
@@ -144,9 +144,9 @@
     "category": "Кліпси обшивки",
     "compatibility": ["Tesla", "Ford"],
     "prices": {
-      "100": 235,
-      "500": 1150,
-      "1000": 2250
+      "100": 255,
+      "500": 1250,
+      "1000": 2400
     },
     "minQuantity": 100,
     "img": "klipsa010.jpg"
