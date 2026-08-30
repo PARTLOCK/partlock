@@ -240,6 +240,21 @@
     },
     "minQuantity": 100,
     "img": "klipsa016.webp"
+  },
+  {
+    "id": "017",
+    "name": "Кліпса кріплення обшивки дверей",
+    "oem": "3AA868243A",
+    "brand": "Audi",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Skoda", "Audi", "Volkswagen", "Seat"],
+    "prices": {
+      "100": 660,
+      "500": 3250,
+      "1000": 6300
+    },
+    "minQuantity": 100,
+    "img": "klipsa017.jpg"
   }
   
 ]
