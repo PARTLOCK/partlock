@@ -274,7 +274,7 @@
   {
     "id": "019",
     "name": "Кріплення обшивки",
-    "oem": "823867299",
+    "oem": "6777306020",
     "brand": "Volkswagen",
     "category": "Кліпси обшивки",
     "compatibility": ["Golf", "Audi", "Seat"],
@@ -285,6 +285,21 @@
     },
     "minQuantity": 100,
     "img": "klipsa019.webp"
+  },
+  {
+    "id": "020",
+    "name": "Кліпса Tesla",
+    "oem": "1902378-99-A",
+    "brand": "Tesla",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Tesla"],
+    "prices": {
+      "100": 625,
+      "500": 3075,
+      "1000": 5900
+    },
+    "minQuantity": 100,
+    "img": "klipsa020.jpg"
   }
   
 ]
