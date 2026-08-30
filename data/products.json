@@ -255,6 +255,21 @@
     },
     "minQuantity": 100,
     "img": "klipsa017.jpg"
+  },
+  {
+    "id": "018",
+    "name": "Кліпса кріплення обшивки Volkswagen",
+    "oem": "823867299",
+    "brand": "Volkswagen",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Golf", "Audi", "Seat"],
+    "prices": {
+      "100": 275,
+      "500": 1350,
+      "1000": 2550
+    },
+    "minQuantity": 100,
+    "img": "klipsa018.webp"
   }
   
 ]
