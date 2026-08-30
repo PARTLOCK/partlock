@@ -217,7 +217,7 @@
     "oem": "6Y0867260",
     "brand": "Skoda",
     "category": "Кліпси обшивки",
-    "compatibility": ["Skoda", "Mercedes "],
+    "compatibility": ["Skoda", "Mercedes"],
     "prices": {
       "100": 315,
       "500": 1525,
@@ -225,6 +225,21 @@
     },
     "minQuantity": 100,
     "img": "klipsa015.webp"
+  },
+  {
+    "id": "016",
+    "name": "Кріплення розпірної дії З натискним розпірним штиром",
+    "oem": "N10259301",
+    "brand": "Peugeot",
+    "category": "Кліпси кузова",
+    "compatibility": ["Peugeot", "Renault", "Skoda", "Citroen", "Audi"],
+    "prices": {
+      "100": 265,
+      "500": 1300,
+      "1000": 2550
+    },
+    "minQuantity": 100,
+    "img": "klipsa016.webp"
   }
   
 ]
