@@ -300,6 +300,21 @@
     },
     "minQuantity": 100,
     "img": "klipsa020.jpg"
+  },
+  {
+    "id": "021",
+    "name": "Пістон кріплення накладки",
+    "oem": "768474EA0A",
+    "brand": "Nissan",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Nissan", "Infiniti"],
+    "prices": {
+      "100": 230,
+      "500": 1125,
+      "1000": 2200
+    },
+    "minQuantity": 100,
+    "img": "klipsa021.jpg"
   }
   
 ]
