@@ -180,5 +180,36 @@
     },
     "minQuantity": 100,
     "img": "klipsa012.webp"
+  },
+  {
+    "id": "013",
+    "name": "Кліпса обшивки дверей (карти) багато моделей VW",
+    "oem": "3B0868243",
+    "brand": "Volkswagen",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Volkswagen", "Skoda", "Seat"],
+    "prices": {
+      "100": 490,
+      "500": 2400,
+      "1000": 4700
+    },
+    "minQuantity": 100,
+    "img": "klipsa13.webp"
+  },
+  {
+    "id": "014",
+    "name": "Кліпси обшивки дверей Golf 7",
+    "oem": "7L6868243",
+    "brand": "Volkswagen",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Audi", "Seat ", "Seat"],
+    "prices": {
+      "100": 630,
+      "500": 3100,
+      "1000": 6000
+    },
+    "minQuantity": 100,
+    "img": "klipsa014.webp"
   }
+  
 ]
