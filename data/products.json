@@ -210,6 +210,21 @@
     },
     "minQuantity": 100,
     "img": "klipsa014.webp"
+  },
+  {
+    "id": "015",
+    "name": "Кліпса кріплення обшивки дверей Skoda Fabia",
+    "oem": "6Y0867260",
+    "brand": "Volkswagen",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Skoda", "Mercedes "],
+    "prices": {
+      "100": 315,
+      "500": 1525,
+      "1000": 2900
+    },
+    "minQuantity": 100,
+    "img": "klipsa015.webp"
   }
   
 ]
