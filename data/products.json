@@ -200,7 +200,7 @@
     "id": "014",
     "name": "Кліпси обшивки дверей Golf 7",
     "oem": "7L6868243",
-    "brand": "Volkswagen",
+    "brand": "Audi",
     "category": "Кліпси обшивки",
     "compatibility": ["Audi", "Seat ", "Seat"],
     "prices": {
@@ -215,7 +215,7 @@
     "id": "015",
     "name": "Кліпса кріплення обшивки дверей Skoda Fabia",
     "oem": "6Y0867260",
-    "brand": "Volkswagen",
+    "brand": "Skoda",
     "category": "Кліпси обшивки",
     "compatibility": ["Skoda", "Mercedes "],
     "prices": {
