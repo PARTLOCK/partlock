@@ -1,10 +1,10 @@
 [
   
   {
-    "id": "002",
+    "id": "7703077435",
     "name": "Пістон кріплення обшивки та шумки (Ялинка)",
     "oem": "7703077435",
-    "brand": "Toyota",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки", 
     "compatibility": ["Renault", "Opel", "Nissan", "Citroen", "Infiniti"],
     "prices": {
@@ -17,10 +17,10 @@
   },
   
   {
-    "id": "001",
+    "id": "91560SP0003",
     "name": "Пістон дверної карти (обшивки дверей)",
     "oem": "91560SP0003",
-    "brand": "Honda",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Subaru", "Honda"],
     "prices": {
@@ -32,10 +32,10 @@
     "img": "klipsa001.jpg"
   },
   {
-    "id": "004",
+    "id": "8200700969",
     "name": "Кліпса кріплення внутрішньої обшивки дверей",
     "oem": "8200700969",
-    "brand": "Volkswagen",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Renault", "Dacia", "Logan", "Peugeot"],
     "prices": {
@@ -47,10 +47,10 @@
     "img": "klipsa004.jpeg"
   },
   {
-    "id": "003",
+    "id": "01553-05933",
     "name": "Натискна кліпса бампера та підкрилка",
     "oem": "01553-05933",
-    "brand": "Nissan",
+    "brand": "PARTLOCK",
     "category": "Кліпси бампера",
     "compatibility": ["Mazda", "Subaru", "Infiniti", "Nissan"],
     "prices": {
@@ -62,10 +62,10 @@
     "img": "klipsa003.jpg"
   },
   {
-    "id": "005",
+    "id": "90118WB048",
     "name": "Пістон кріплення бампера",
     "oem": "90118WB048",
-    "brand": "Mazda",
+    "brand": "PARTLOCK",
     "category": "Кліпси бампера",
     "compatibility": ["Mazda", "Toyota"],
     "prices": {
@@ -77,10 +77,10 @@
     "img": "klipsa005.webp"
   },
   {
-    "id": "006",
+    "id": "701867299",
     "name": "Кліпса обшивки салону VW Transporter T4",
     "oem": "701867299",
-    "brand": "VAG",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Skoda", "Seat", "Volkswagen"],
     "prices": {
@@ -92,10 +92,10 @@
     "img": "klipsa006.webp"
   },
   {
-    "id": "007",
+    "id": "7703077476",
     "name": "Кліпси обшивки Renault Peugeot Citroen",
     "oem": "7703077476",
-    "brand": "Renault",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Renault", "Peugeot", "Citroen"],
     "prices": {
@@ -107,10 +107,10 @@
     "img": "klipsa007.webp"
   },
   {
-    "id": "008",
+    "id": "W713489S300",
     "name": "Кліпса кріплення обшивки дверей Ford",
     "oem": "W713489S300",
-    "brand": "Ford",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Ford"],
     "prices": {
@@ -122,10 +122,10 @@
     "img": "klipsa008.webp"
   },
   {
-    "id": "009",
+    "id": "7701050734",
     "name": "Кліпса фіксатор обшивки дверей Renault",
     "oem": "7701050734",
-    "brand": "Renault",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Land Rover", "Dacia", "Nissan", "Opel", "Renault"],
     "prices": {
@@ -137,10 +137,10 @@
     "img": "klipsa009.jpg"
   },
   {
-    "id": "010",
+    "id": "W713297S300",
     "name": "Кліпса Ford Tesla",
     "oem": "W713297S300",
-    "brand": "Tesla",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Tesla", "Ford"],
     "prices": {
@@ -152,10 +152,10 @@
     "img": "klipsa010.jpg"
   },
   {
-    "id": "011",
+    "id": "110682700C",
     "name": "Кліпса Tesla",
     "oem": "110682700C",
-    "brand": "Tesla",
+    "brand": "PARTLOCK",
     "category": "Кліпси молдингів",
     "compatibility": ["Tesla"],
     "prices": {
@@ -167,10 +167,10 @@
     "img": "klipsa011.webp"
   },
   {
-    "id": "012",
+    "id": "114276600A",
     "name": "Кліпси обшивки Дверей Tesla",
     "oem": "114276600A",
-    "brand": "Tesla",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Tesla"],
     "prices": {
@@ -182,10 +182,10 @@
     "img": "klipsa012.webp"
   },
   {
-    "id": "013",
+    "id": "3B0868243",
     "name": "Кліпса обшивки дверей (карти) багато моделей VW",
     "oem": "3B0868243",
-    "brand": "Volkswagen",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Volkswagen", "Skoda", "Seat"],
     "prices": {
@@ -197,10 +197,10 @@
     "img": "klipsa13.webp"
   },
   {
-    "id": "014",
+    "id": "7L6868243",
     "name": "Кліпси обшивки дверей Golf 7",
     "oem": "7L6868243",
-    "brand": "Audi",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Audi", "Seat ", "Seat"],
     "prices": {
@@ -212,10 +212,10 @@
     "img": "klipsa014.webp"
   },
   {
-    "id": "015",
+    "id": "6Y0867260",
     "name": "Кліпса кріплення обшивки дверей Skoda Fabia",
     "oem": "6Y0867260",
-    "brand": "Skoda",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Skoda", "Mercedes"],
     "prices": {
@@ -227,10 +227,10 @@
     "img": "klipsa015.webp"
   },
   {
-    "id": "016",
+    "id": "N10259301",
     "name": "Кріплення розпірної дії З натискним розпірним штиром",
     "oem": "N10259301",
-    "brand": "Peugeot",
+    "brand": "PARTLOCK",
     "category": "Кліпси кузова",
     "compatibility": ["Peugeot", "Renault", "Skoda", "Citroen", "Audi"],
     "prices": {
@@ -242,10 +242,10 @@
     "img": "klipsa016.webp"
   },
   {
-    "id": "017",
+    "id": "3AA868243A",
     "name": "Кліпса кріплення обшивки дверей",
     "oem": "3AA868243A",
-    "brand": "Audi",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Skoda", "Audi", "Volkswagen", "Seat"],
     "prices": {
@@ -257,10 +257,10 @@
     "img": "klipsa017.jpg"
   },
   {
-    "id": "018",
+    "id": "823867299",
     "name": "Кліпса кріплення обшивки Volkswagen",
     "oem": "823867299",
-    "brand": "Volkswagen",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Golf", "Audi", "Seat"],
     "prices": {
@@ -272,10 +272,10 @@
     "img": "klipsa018.webp"
   },
   {
-    "id": "019",
+    "id": "6777306020",
     "name": "Кріплення обшивки",
     "oem": "6777306020",
-    "brand": "Volkswagen",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Golf", "Audi", "Seat"],
     "prices": {
@@ -287,10 +287,10 @@
     "img": "klipsa019.webp"
   },
   {
-    "id": "020",
+    "id": "1902378-99-A",
     "name": "Кліпса Tesla",
     "oem": "1902378-99-A",
-    "brand": "Tesla",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Tesla"],
     "prices": {
@@ -302,10 +302,10 @@
     "img": "klipsa020.jpg"
   },
   {
-    "id": "021",
+    "id": "768474EA0A",
     "name": "Пістон кріплення накладки",
     "oem": "768474EA0A",
-    "brand": "Nissan",
+    "brand": "PARTLOCK",
     "category": "Кліпси обшивки",
     "compatibility": ["Nissan", "Infiniti"],
     "prices": {
