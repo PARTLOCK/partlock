@@ -405,6 +405,21 @@
     },
     "minQuantity": 500,
     "img": "rubber.jpg"
+  },
+  {
+    "id": "4115676",
+    "name": "Кільце ущільнююче 12*2,5 NBR70",
+    "oem": "4115676",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 600,
+      "1000": 950,
+      "2000": 1600
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
   }
   
 ]
