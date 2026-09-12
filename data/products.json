@@ -315,6 +315,21 @@
     },
     "minQuantity": 100,
     "img": "klipsa021.jpg"
+  },
+  {
+    "id": "4115670",
+    "name": "Кільце ущільнююче 6*2,5 NBR70",
+    "oem": "4115670",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 550,
+      "1000": 900,
+      "2000": 1400
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
   }
   
 ]
