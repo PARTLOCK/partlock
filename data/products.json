@@ -420,6 +420,321 @@
     },
     "minQuantity": 500,
     "img": "rubber.jpg"
+  },
+  {
+    "id": "4115677",
+    "name": "Кільце ущільнююче 13*2,5 NBR70",
+    "oem": "4115677",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 650,
+      "1000": 1100,
+      "2000": 1800
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115678",
+    "name": "Кільце ущільнююче 14*2,5 NBR70",
+    "oem": "4115678",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 650,
+      "1000": 1100,
+      "2000": 1800
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115679",
+    "name": "Кільце ущільнююче 15*2,5 NBR70",
+    "oem": "4115679",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 650,
+      "1000": 1100,
+      "2000": 1800
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115680",
+    "name": "Кільце ущільнююче 16*2,5 NBR70",
+    "oem": "4115680",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 650,
+      "1000": 1100,
+      "2000": 1800
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115681",
+    "name": "Кільце ущільнююче 17*2,5 NBR70",
+    "oem": "4115681",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 650,
+      "1000": 1100,
+      "2000": 1800
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115682",
+    "name": "Кільце ущільнююче 18*2,5 NBR70",
+    "oem": "4115682",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 700,
+      "1000": 1200,
+      "2000": 2000
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115683",
+    "name": "Кільце ущільнююче 19*2,5 NBR70",
+    "oem": "4115683",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 700,
+      "1000": 1200,
+      "2000": 2000
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115684",
+    "name": "Кільце ущільнююче 20*2,5 NBR70",
+    "oem": "4115684",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 700,
+      "1000": 1200,
+      "2000": 2000
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115685",
+    "name": "Кільце ущільнююче 21*2,5 NBR70",
+    "oem": "4115685",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 700,
+      "1000": 1200,
+      "2000": 2000
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115686",
+    "name": "Кільце ущільнююче 22*2,5 NBR70",
+    "oem": "4115686",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 700,
+      "1000": 1200,
+      "2000": 2000
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115687",
+    "name": "Кільце ущільнююче 23*2,5 NBR70",
+    "oem": "4115687",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 750,
+      "1000": 1300,
+      "2000": 2200
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115688",
+    "name": "Кільце ущільнююче 24*2,5 NBR70",
+    "oem": "4115688",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 750,
+      "1000": 1300,
+      "2000": 2200
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115689",
+    "name": "Кільце ущільнююче 25*2,5 NBR70",
+    "oem": "4115689",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 750,
+      "1000": 1300,
+      "2000": 2200
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115690",
+    "name": "Кільце ущільнююче 26*2,5 NBR70",
+    "oem": "4115690",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 750,
+      "1000": 1300,
+      "2000": 2200
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115691",
+    "name": "Кільце ущільнююче 27*2,5 NBR70",
+    "oem": "4115691",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 800,
+      "1000": 1400,
+      "2000": 2400
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115692",
+    "name": "Кільце ущільнююче 28*2,5 NBR70",
+    "oem": "4115692",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 800,
+      "1000": 1400,
+      "2000": 2400
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115693",
+    "name": "Кільце ущільнююче 29*2,5 NBR70",
+    "oem": "4115693",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 800,
+      "1000": 1400,
+      "2000": 2400
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115694",
+    "name": "Кільце ущільнююче 30*2,5 NBR70",
+    "oem": "4115694",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 850,
+      "1000": 1500,
+      "2000": 2600
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115695",
+    "name": "Кільце ущільнююче 31*2,5 NBR70",
+    "oem": "4115695",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 850,
+      "1000": 1500,
+      "2000": 2600
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115696",
+    "name": "Кільце ущільнююче 32*2,5 NBR70",
+    "oem": "4115696",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 850,
+      "1000": 1500,
+      "2000": 2600
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
+  },
+  {
+    "id": "4115697",
+    "name": "Кільце ущільнююче 33*2,5 NBR70",
+    "oem": "4115697",
+    "brand": "PARTLOCK",
+    "category": "Кільця ущільнювальні",
+    "compatibility": [""],
+    "prices": {
+      "500": 850,
+      "1000": 1500,
+      "2000": 2600
+    },
+    "minQuantity": 500,
+    "img": "rubber.jpg"
   }
   
 ]
