@@ -735,6 +735,21 @@
     },
     "minQuantity": 500,
     "img": "rubber.jpg"
+  },
+  {
+    "id": "114005",
+    "name": "Клема кільцева Ø4,2 мм. під кабель 1-2,5 мм.",
+    "oem": "114005",
+    "brand": "PARTLOCK",
+    "category": "Клема кільцева",
+    "compatibility": [""],
+    "prices": {
+      "500": 450,
+      "1000": 800,
+      "2000": 1400
+    },
+    "minQuantity": 500,
+    "img": "klema2-4.webp"
   }
   
 ]
