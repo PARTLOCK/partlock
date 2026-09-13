@@ -915,6 +915,66 @@
     },
     "minQuantity": 1000,
     "img": "shaiba1.jpg"
+  },
+  {
+    "id": "00001945",
+    "name": "Шайба нейлонова чорна M3*8*1",
+    "oem": "00001945",
+    "brand": "PARTLOCK",
+    "category": "Нейлонова шайба",
+    "compatibility": [""],
+    "prices": {
+      "1000": 800,
+      "2000": 1300,
+      "5000": 2600
+    },
+    "minQuantity": 1000,
+    "img": "shaiba1.jpg"
+  },
+  {
+    "id": "00003591",
+    "name": "Шайба нейлонова чорна M4*10*1",
+    "oem": "00003591",
+    "brand": "PARTLOCK",
+    "category": "Нейлонова шайба",
+    "compatibility": [""],
+    "prices": {
+      "1000": 900,
+      "2000": 1400,
+      "5000": 2700
+    },
+    "minQuantity": 1000,
+    "img": "shaiba1.jpg"
+  },
+  {
+    "id": "00003590",
+    "name": "Шайба нейлонова чорна M4*8*1",
+    "oem": "00003590",
+    "brand": "PARTLOCK",
+    "category": "Нейлонова шайба",
+    "compatibility": [""],
+    "prices": {
+      "1000": 800,
+      "2000": 1300,
+      "5000": 2600
+    },
+    "minQuantity": 1000,
+    "img": "shaiba1.jpg"
+  },
+  {
+    "id": "00003592",
+    "name": "Шайба нейлонова чорна M6*12*1.2",
+    "oem": "00003592",
+    "brand": "PARTLOCK",
+    "category": "Нейлонова шайба",
+    "compatibility": [""],
+    "prices": {
+      "1000": 1100,
+      "2000": 1800,
+      "5000": 3500
+    },
+    "minQuantity": 1000,
+    "img": "shaiba1.jpg"
   }
   
   
