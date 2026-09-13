@@ -825,6 +825,81 @@
     },
     "minQuantity": 500,
     "img": "klemag6.3A.png"
+  },
+  {
+    "id": "4411500",
+    "name": "Ковпачок пластмасовий чорний",
+    "oem": "4411500",
+    "brand": "PARTLOCK",
+    "category": "Ковпачок пластмасовий",
+    "compatibility": [""],
+    "prices": {
+      "500": 450,
+      "1000": 800,
+      "2000": 1200
+    },
+    "minQuantity": 500,
+    "img": "kovpachokblack.jpg"
+  },
+  {
+    "id": "4411501",
+    "name": "Ковпачок пластмасовий червоний",
+    "oem": "4411501",
+    "brand": "PARTLOCK",
+    "category": "Ковпачок пластмасовий",
+    "compatibility": [""],
+    "prices": {
+      "500": 500,
+      "1000": 850,
+      "2000": 1500
+    },
+    "minQuantity": 500,
+    "img": "kovpachokred.jpg"
+  },
+  {
+    "id": "4411502",
+    "name": "Ковпачок пластмасовий жовтий",
+    "oem": "4411502",
+    "brand": "PARTLOCK",
+    "category": "Ковпачок пластмасовий",
+    "compatibility": [""],
+    "prices": {
+      "500": 500,
+      "1000": 850,
+      "2000": 1500
+    },
+    "minQuantity": 500,
+    "img": "kovpachokyellow.jpg"
+  },
+  {
+    "id": "4411503",
+    "name": "Ковпачок пластмасовий сірий",
+    "oem": "4411503",
+    "brand": "PARTLOCK",
+    "category": "Ковпачок пластмасовий",
+    "compatibility": [""],
+    "prices": {
+      "500": 500,
+      "1000": 850,
+      "2000": 1500
+    },
+    "minQuantity": 500,
+    "img": "kovpachokgrey.jpg"
+  },
+  {
+    "id": "4411504",
+    "name": "Ковпачок пластмасовий білий",
+    "oem": "4411504",
+    "brand": "PARTLOCK",
+    "category": "Ковпачок пластмасовий",
+    "compatibility": [""],
+    "prices": {
+      "500": 500,
+      "1000": 850,
+      "2000": 1500
+    },
+    "minQuantity": 500,
+    "img": "kovpachokwhite.jpg"
   }
   
   
