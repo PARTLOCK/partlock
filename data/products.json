@@ -797,7 +797,7 @@
     "img": "klema6.2.png"
   },
   {
-    "id": "114009",
+    "id": "DJ622-a6.3b",
     "name": "Клема гніздова (мама) 6,3 мм.",
     "oem": "DJ622-a6.3b",
     "brand": "PARTLOCK",
@@ -810,6 +810,21 @@
     },
     "minQuantity": 500,
     "img": "klemag6.3.jpg"
+  },
+  {
+    "id": "DJ611-6.3B",
+    "name": "Клема гніздова (мама) 6,3 мм.",
+    "oem": "DJ611-6.3B",
+    "brand": "PARTLOCK",
+    "category": "Клема гніздова",
+    "compatibility": [""],
+    "prices": {
+      "500": 800,
+      "1000": 1400,
+      "2000": 2400
+    },
+    "minQuantity": 500,
+    "img": "klemag6.3A.png"
   }
   
   
