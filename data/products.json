@@ -795,6 +795,21 @@
     },
     "minQuantity": 500,
     "img": "klema6.2.png"
+  },
+  {
+    "id": "114009",
+    "name": "Клема гніздова (мама) 6,3 мм.",
+    "oem": "114009",
+    "brand": "PARTLOCK",
+    "category": "Клема гніздова",
+    "compatibility": [""],
+    "prices": {
+      "500": 800,
+      "1000": 1400,
+      "2000": 2400
+    },
+    "minQuantity": 500,
+    "img": "klemag6.3.jpg"
   }
   
   
