@@ -780,6 +780,21 @@
     },
     "minQuantity": 500,
     "img": "klema5.2.png"
+  },
+  {
+    "id": "114008",
+    "name": "Клема кільцева Ø6,2 мм.",
+    "oem": "114008",
+    "brand": "PARTLOCK",
+    "category": "Клема кільцева",
+    "compatibility": [""],
+    "prices": {
+      "500": 675,
+      "1000": 1200,
+      "2000": 2200
+    },
+    "minQuantity": 500,
+    "img": "klema6.2.png"
   }
   
   
