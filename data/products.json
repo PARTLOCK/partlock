@@ -900,6 +900,21 @@
     },
     "minQuantity": 500,
     "img": "kovpachokwhite.jpg"
+  },
+  {
+    "id": "00001944",
+    "name": "Шайба нейлонова чорна M3*6*1",
+    "oem": "00001944",
+    "brand": "PARTLOCK",
+    "category": "Нейлонова шайба",
+    "compatibility": [""],
+    "prices": {
+      "1000": 700,
+      "2000": 1200,
+      "5000": 2500
+    },
+    "minQuantity": 1000,
+    "img": "shaiba1.jpg"
   }
   
   
