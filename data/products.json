@@ -142,7 +142,7 @@
     "oem": "6506007AA ",
     "brand": "PARTLOCK",
     "category": "Кліпси кузова",
-    "compatibility": ["Chrysler", "Ford"],
+    "compatibility": ["Chrysler", "Ford", "Jeep"]],
     "prices": {
       "100": 385,
       "500": 1825,
