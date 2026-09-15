@@ -77,6 +77,21 @@
     "img": "klipsa005.webp"
   },
   {
+    "id": "68039280AA",
+    "name": "Кліпса кріплення молдинга крила Jeep Wrangler JK",
+    "oem": "68039280AA",
+    "brand": "PARTLOCK",
+    "category": "Кліпси молдингів",
+    "compatibility": ["Jeep"],
+    "prices": {
+      "100": 375,
+      "500": 1775,
+      "1000": 3350
+    },
+    "minQuantity": 100,
+    "img": "klipsa023.jpg"
+  },
+  {
     "id": "701867299",
     "name": "Кліпса обшивки салону VW Transporter T4",
     "oem": "701867299",
