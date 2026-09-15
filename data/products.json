@@ -107,6 +107,21 @@
     "img": "klipsa007.webp"
   },
   {
+    "id": "W708035-S300",
+    "name": "Кріплення обшивки капота (Ялинка)",
+    "oem": "W708035-S300",
+    "brand": "PARTLOCK",
+    "category": "Кліпси обшивки",
+    "compatibility": ["Ford", "Jeep", "Lincoln "],
+    "prices": {
+      "100": 285,
+      "500": 1325,
+      "1000": 2450
+    },
+    "minQuantity": 100,
+    "img": "klipsa022.webp"
+  },
+  {
     "id": "W713489S300",
     "name": "Кліпса кріплення обшивки дверей Ford",
     "oem": "W713489S300",
