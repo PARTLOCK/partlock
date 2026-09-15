@@ -227,6 +227,21 @@
     "img": "klipsa13.webp"
   },
   {
+    "id": "856553",
+    "name": "Кліпса кріплення підкрилок",
+    "oem": "856553",
+    "brand": "PARTLOCK",
+    "category": "Кліпси підкрилок",
+    "compatibility": ["Citroen", "Renault", "Peugeot"],
+    "prices": {
+      "100": 380,
+      "500": 1800,
+      "1000": 3250
+    },
+    "minQuantity": 100,
+    "img": "klipsa024.webp"
+  },
+  {
     "id": "7L6868243",
     "name": "Кліпси обшивки дверей Golf 7",
     "oem": "7L6868243",
