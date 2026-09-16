@@ -1275,6 +1275,21 @@
     },
     "minQuantity": 100,
     "img": "alum2.jpg"
+  },
+  {
+    "id": "11026-JA00A",
+    "name": "Мідна прокладка зливної пробки масляного піддона",
+    "oem": "11026-JA00A",
+    "brand": "PARTLOCK",
+    "category": "Мідна прокладка",
+    "compatibility": ["Nissan", "Infiniti"],
+    "prices": {
+      "100": 630,
+      "500": 3075,
+      "1000": 5950
+    },
+    "minQuantity": 100,
+    "img": "midna.avif"
   }
   
 ]
