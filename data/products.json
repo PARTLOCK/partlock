@@ -1290,6 +1290,21 @@
     },
     "minQuantity": 100,
     "img": "midna.avif"
+  },
+  {
+    "id": "N0138157",
+    "name": "Мідна ущільнювальні кільця для зливних пробок",
+    "oem": "N0138157",
+    "brand": "PARTLOCK",
+    "category": "Мідна прокладка",
+    "compatibility": ["Volkswagen", "Audi", "SEAT", "Porsche", "Skoda"],
+    "prices": {
+      "100": 540,
+      "500": 2550,
+      "1000": 4900
+    },
+    "minQuantity": 100,
+    "img": "midna1.jpg"
   }
   
 ]
